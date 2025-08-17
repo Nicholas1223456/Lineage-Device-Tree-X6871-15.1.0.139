@@ -129,7 +129,7 @@ BUILD_BROKEN_DUP_RULES := true
 BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
 
 # Inherit the proprietary files
-include vendor/infinix/X6739/BoardConfigVendor.mk
+include vendor/infinix/X6871/BoardConfigVendor.mk
 
 # VINTF
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
